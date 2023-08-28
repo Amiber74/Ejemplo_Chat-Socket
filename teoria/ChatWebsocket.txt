@@ -1,0 +1,20 @@
+CLASE PRACTICA:
+    Aplicacion chat con Websocket.
+        _La mejor forma de comprender como funciona websocket es realizando un chat comunitario.
+
+        El chat contara con:
+            _Vista que cuente con un formulario para identificarse. El usuario podra elegir el nombre de usuario con el que aparecera en el chat.
+            _Un cuadro de input sobre el cual el usuario podra excribir el mensaje.
+            _Un panel donde todos los usuarios conectados podran visualizar los mensajes en tiempo real.
+            _Una cez desarrollada esta aplicacion, subiremos nuestro codigo a glitch.com. para que todos puedan usarlo.
+
+    Comencemos el proyecto from scratch
+        
+        1.Tener listo la estrucutra express
+        2.Realizar las intalaciones
+        3. Configurar el servidor con handlebars + socket.io: app.js
+
+    Configurar Sweetalert2:
+        Nos permite usar alertas esteticas, con usos como por ejemplo:
+            Bloquear pantalla de caht hasta que el usuario se identifique.
+            Notificar a los usarios cuando alguien se conecte al chat 

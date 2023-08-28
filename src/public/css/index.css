@@ -1,0 +1,9 @@
+body{
+    background-color: gray;
+    color: white;
+}
+.Box{
+    display: grid;
+    grid-template-columns: 200px;
+    justify-content: center;
+}

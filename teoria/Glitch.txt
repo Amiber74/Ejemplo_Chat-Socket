@@ -1,0 +1,10 @@
+Deploy?
+
+    Hacer deploy de nuestra aplicacion, significa que esta puede estar accesible para el uso general de todos los usuarios que tengan acceso al link deonde reside neustro servidor.
+
+    Actualmente nuestro trabajo esta disponible en localhost, el cual es local.
+
+    Una vez neustra app haya sido Desplegada, vivira en una unanube y podremos compartirla a quien queramos
+
+Glitch:
+    Plataforma para hacer deploy de nuesta aplicacion 
